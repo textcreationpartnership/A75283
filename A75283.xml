@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The coppie of a letter vvritten to the Duke of Buckingham concerning the match with Spaine: discovering what dangers would happen to this state by the Kings marrying with one of a contrary religion shewed by divers presidents.</title>
+            <author>Alured, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75283</idno>
+            <idno type="STC">Wing A2940</idno>
+            <idno type="STC">Thomason E115_12</idno>
+            <idno type="STC">ESTC R22286</idno>
+            <idno type="EEBO-CITATION">99871690</idno>
+            <idno type="PROQUEST">99871690</idno>
+            <idno type="VID">156017</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75283)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156017)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E115[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The coppie of a letter vvritten to the Duke of Buckingham concerning the match with Spaine: discovering what dangers would happen to this state by the Kings marrying with one of a contrary religion shewed by divers presidents.</title>
+                  <author>Alured, Thomas.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for George Tomlinson,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Thomas Alured.</note>
+                  <note>Annotation on Thomason copy: "Septemb 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Buckingham, George Villiers, --  Duke of, 1592-1628.</term>
+               <term>Great Britain --  Kings and rulers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156017:1" rendition="simple:additions"/>
+            <p>THE COPPIE Of A LETTER VVritten to the DVKE of <hi>BVCKINGHAM</hi> Concerning the match with Spaine:</p>
+            <p>Diſcovering what Dangers would happen to this State by the Kings marrying with one of a con<g ref="char:EOLhyphen"/>trary Religion ſhewed by di<g ref="char:EOLhyphen"/>vers Preſidents.</p>
+            <p>Printed at <hi>London</hi> for <hi>George Tomlinſon.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:156017:2"/>
+            <head>The Coppy of a Letter writ<g ref="char:EOLhyphen"/>ten to the Duke of <hi>Buckingham,</hi> con<g ref="char:EOLhyphen"/>cerning the match with <hi>Spaine.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Hough to adviſe may ſeeme preſumptuous, what is well intended I am more then confident will not be either offenſive to your Lordſhip, or prejudiciall to me; the rather what is now offered is, not for your good onely, but for the generall alſo; the honour whereof as in ſome ſort you may appropria<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, ſo you cannot but participate and commu<g ref="char:EOLhyphen"/>nicate in the benefit.</p>
+            <p>The Parable in the Goſpell tells us of a great King that married his Sonne and bid many thereto, yea upon the excuſes of ſome and refu<g ref="char:EOLhyphen"/>ſall of others, all of what ſort ſoever and condition as well out of the high-waies as high places, were called and invited. As every true Chriſtian hath an intereſt in the Marriage of the Kings Son of Hea<g ref="char:EOLhyphen"/>ven; ſo every good Subject as well as every great ſubject hath an in<g ref="char:EOLhyphen"/>terreſt in the marriage and welfare of the Kings Sonne here on Earth, which occaſions ſo many to wiſh, that it may bring to him glory in her, good will and peace to him on earth, which is much doubted can<g ref="char:EOLhyphen"/>not be from <hi>Spaine,</hi> ſince the motion of this match makes a gener<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> feare t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at it can neither be ſafe for the Kings perſon not good for this Church and Common-wealth, becauſe that thereby may be an in-let to the Romiſh Locuſts, who like a Canker-worme may in an inſtant ſmite our Gourd under whoſe ſhadow wee ſit ſafe; and then what
+<pb n="3" facs="tcp:156017:2"/> may we all feare but the heate of perſecution, or diſſention to beate upon the head of <hi>Ionah</hi> the beſt affected of Gods people.</p>
+            <p>Who can but lament and wiſh with <hi>Jonah</hi> to dye, rather than to ſee and endure that day; for what evill will they not attempt againſt our goodly Cedar tree, that the Vine which their left hand hath planted may grow up? and they be ſheltred under her Branches. But herein it is hoped that God will enable this State ſooner to make prevention of their miſchiefe than triall of their affections, for as there is no perſon that wounded them more deepely, ſo there is no perſon whom they hate more deadly. And if they murthered the laſt Lord, <hi>Hen.</hi> of <hi>France</hi> becauſe they but ſuſpected him to favour the Proteſtants how doe they burne in malice againſt him who hath ſo profeſſed himſelfe, and blazed to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> glory and their ſhame? And it is as unſafe for men as diſpleaſing to God, to relye upon them.</p>
+            <p>
+               <hi>Henry</hi> of Bullen King of Navar father of <hi>Henry</hi> the 4. drawne by an imaginary Crowne of Sardinia and the Provinces of the Spaniard, left the Proteſtants both in profeſſion and perſon, and became a perſe<g ref="char:EOLhyphen"/>cutor of thoſe whoſe protector he was; but whiles he caſt his hopes upon Spaine he was deprived of his owne Crowne, and God in Juſtice who never leaves any that leane vpon him, firſt gave him o<g ref="char:EOLhyphen"/>ver to a violent death, for a bullet tooke him within his owne Tren<g ref="char:EOLhyphen"/>ches beſieging the poore Proteſtants in Roane; <hi>Henry</hi> the fourth his Sonne, what Battells did he fight, what dangers did he eſcape even to admiration while he was at diſtance with the Pope and Spaniards? but when in a politick and worldly reſpect hee taſted the ſame ſower Grape which ſet his fathers teeth on edge; Firſt a young Ieſuite ſtrook him on the mouth, and then a Popiſh Raviliack ſtab'd him to the heart. Whereas Queene <hi>Elizabeth</hi> the happieſt inſtrument of Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s glory of her ſex, ſince the bleſſed Virgin, notwithſtanding the few friends ſhe had abroad and diviſion at home when ſhee came to the Crowne, being a l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ane woman yet ſhe refuſed the King of Spaine, being her firſt and earneſt Sutor by the Earle of Feria his Ambaſſa<g ref="char:EOLhyphen"/>dour and notwithſtanding the thundering of the Popes Bulls and Spaniſh Canons openly, or the working of his Piſtols privately, they were never able to cut as much as the lap of her coate, or to diminiſh one haire, much leſſe the Crowne off her head. And His Majeſty, that now is continuing conſtant in the ſame Religion ſhe profeſſed, continueth no leſſe miraculouſly in Gods protection; and though
+<pb n="4" facs="tcp:156017:3"/> there were but one Proteſtant Prince in Chriſtendome then beſides himſelfe, choſe rather to match with her, than with all the wealth of Spaine, or any other popiſh Prince.</p>
+            <p>What therefore his Majeſty hath given by precept to the Prince in his Booke, and by precedency in his owne perſon will undoubtedly be expected, and all good men hope will be performed; for as the Prince Proclaimes the King his Father by his wonderfull likeneſſe and reſemblance of the King him ſelfe, ſo it is hoped he will never ap<g ref="char:EOLhyphen"/>peare unlike him as in his other vertues, ſo particularly in the choiſe of his ſecond ſelf, which ſo meerely concernes himſelf and your Lordſhip onely, for none can be too circumſpect, eſpecially ſince not a Somer<g ref="char:EOLhyphen"/>ſet, not a Secretary onely, but the firſt, the ſtrongeſt and the wiſeſt man that ever was, though they were all good men, and Types of Chriſt, yet they were hereby tempted and ſeduced.</p>
+            <p>
+               <hi>To addreſſe this Diſcourſe more particularly to your Lordſhip, Kings have almoſt ever had their favourites.</hi>
+            </p>
+            <p>
+               <hi>Alexander</hi> had long ſince his <hi>Hephaeſtion.</hi> and <hi>H.</hi> 3. of France his <hi>Epermon,</hi> and <hi>Philip</hi> of Spaine had ſince his <hi>Larvea,</hi> yea the beſt Princes have not wanted them; for after the reckoning of <hi>Davids</hi> great Officers, <hi>Huſhai</hi> the Archite is called the Kings friend, <hi>Ira</hi> the <hi>Iairite</hi> is ſet downe to have been chiefe about <hi>David,</hi> which ſtands with reaſon, and agreeth with nature; for every private man is left to affect as he liketh: neither can affection be forced. Now to diſ-allow or confine that in a King which is left at liberty to the meaneſt ſub<g ref="char:EOLhyphen"/>ject, were prepoſterous and injurious. For though they Command actions as they are Kings, yet are they ſubject to their paſſion as they are men.</p>
+            <p>And if I may alleadge it without miſ-interpretation of others (as I am free from ill meaning my ſelfe) who knowes but Chriſt, the rather to ſhew himſelfe a Naturall man, expreſſed ſo much the more his Paſſion in his often weeping and affection to diverſe particulars, but eſpecially to Saint <hi>Iohn</hi> (if I may not ſay his favourite) certaintly the Diſciple whom Ieſus loved more than any of the reſt.</p>
+            <p>It is Gods bleſſing and your happineſſe to be the Kings Favourite, as <hi>Peter</hi> therefore not preſuming to aske Chriſt of whom hee ſpake, beckned to the Diſciple whom Ieſus loved, on whoſe breaſt he leaned to aske for him: ſo ſure moſt men neither may nor ought to be ſo bold to aske or adviſe the King in this buſineſſe ſo much ſpoken of,
+<pb n="5" facs="tcp:156017:3"/> yet they point at you, who the higher you are in the Kings favour, the more you are in the peoples eye and obſervation; and they expect you will not be wanting in the duty of a ſubject, a Counſellour and a Favourite; but as the reaſons and perſwaſions are known to have the better opportunity to be delivered, and the more credit to be believed, ſo in this caſe to be with the King as <hi>Moſes</hi> one of Gods greateſt Fa<g ref="char:EOLhyphen"/>vourites and familiar ſervants to ſtand in the gap, to divert the plague (for ſo in moſt mens judgements it is feared) how glorious and ne<g ref="char:EOLhyphen"/>ceſſary ſoever it ſeeme outwardly, I am confident you thinke the Kings favour and your owne fortunes are not for your owne ends a<g ref="char:EOLhyphen"/>lone, or for any ill end at all, wee have lately ſeene the ends of thoſe that have propoſed ſuch ends, and as Gods providence extends to the fall of a Sparrow, ſo much more to the riſe of a Favourite. And who knowes but the ſame, that raiſed <hi>Ioſeph</hi> in Aegypt, hath advanced you in England for the like end.</p>
+            <p>To parallel you in no diſparagement you are a younger Brother by a ſecond marriage as <hi>Ioſeph</hi> was, a faire perſon and well favoured as <hi>Ioſeph</hi> was, the King hath for your honour altered your name, as <hi>Ioſephs</hi> was, you have honoured and inriched your Parents and bre<g ref="char:EOLhyphen"/>thren, and kindred as <hi>Ioſeph</hi> did, <hi>Ioſephs</hi> kindred were made known to <hi>Pharoah</hi> as yours to our <hi>Caeſar;</hi> Now my Lord ſeeing you follow <hi>Ioſeph</hi> ſo farre leave him not to the end, but ſtrive to be a meanes to preſerve this our Land from a ſpirituall famine. We read not of any ſervant better reſpected of his Maſter than <hi>Eliazar</hi> of Damaſcus, whom <hi>Abraham</hi> had meant (had he dyed childleſſe) to have made his heire, and we find not any ſervice he did <hi>Abraham</hi> more (at leaſt greater) then in the choiſe of a wife for his ſonne <hi>Iſaac.</hi>
+            </p>
+            <p>Amongſt the ſervants of our Patriarch, <hi>The Defender of the Faith,</hi> we obſerve none better reſpected than your ſelfe, and we know not in what you may doe him better ſervice then with <hi>Eliazar</hi> to helpe to chooſe a <hi>Rebecca</hi> for our <hi>Iſaack, Abrahams</hi> injunction is a good direction not to take her amongſt the Cananite Princes, for having liberty to taſte of every tree in the Garden, if wee ſhall one<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y meddle with the forbidden fruit how miſerable and woefull is our condition; for the Serpent will not onely beguile the woman but the Philiſtims will intreat Dalilah, &amp; ſhe will betray <hi>Sampſon,</hi> ſo while they plough with our Heyfer they will unfold our Riddle and undoe our State.</p>
+            <p>Beſides whatſoever Language the Father ſpeakes the children doe
+<pb n="6" facs="tcp:156017:4"/> commonly ſpeake the mother tongue, and whereſoever there is a <hi>Ba<g ref="char:EOLhyphen"/>bel,</hi> there is a confuſion not of tongues onely, but of ſtates.</p>
+            <p>Whereas Chriſts Church is like his Coate cloſely woven and at peace within it ſelfe, though ſome itching Seperatiſts ſeeke to make a hole in our coate and Church, which the Papiſts labour to rent worſe, and the deſperate Ieſuit makes it paſt mending for whereſoever they come they turne Chriſts coate into <hi>Deiantar</hi> garment, which as it ſet <hi>Hercules</hi> on fire, ſo it ſet others in combuſtion; the reaſon is, their firſt founder was a Souldier, and ever ſince, <hi>The way of peace they have not knowne;</hi> at leaſt not lov'd. To inſtance in particular not un<g ref="char:EOLhyphen"/>fit for our preſent purpoſe, we have not heard of any Proteſtant King that ever married with a contrary Religion, whoſe raigne hath bin proſperous but very fatall and unfortunate.</p>
+            <p>
+               <hi>Henry</hi> of Navar married with <hi>Mary</hi> of France, which marriage was very unfortunate to the parties never having iſſue, and being af<g ref="char:EOLhyphen"/>terwards divorced, and ſo fatall to our Religion that there was more bloud ſpilt at thoſe Nuptialls than wine ſpent; for whilſt the Parents dreamed of the glory and ſecurity they ſhould have by the match, they were moſt miſerably maſſacred, and who doubts but what the French committed in their owne Country, upon that colour would any Papiſts be glad to doe in this Kingdome, for without breach of charity we may doubt of their ſincere meaning when they ſeeme to deſire the greateſt union; for in 88. while there was a Treaty of peace, the Spaniſh Armado came upon us. If therefore we either live or are led by example or precept, we ſhall finde it was forbidden the people of the world to marry with a different Religion; the injuncti<g ref="char:EOLhyphen"/>on; the reaſon and the effect are ſet downe in Deutrinomy to the Iewes. And we ſee in <hi>Salomon</hi> the wiſeſt King that ever was, who married one of the greateſt Kings daughters that then was, yet we ſee the weakeſt ſex withdrew the wiſeſt man, for <hi>Salomon</hi> became an Idolater, his Son a foole, his Subjects rebelled, and the beſt part of his Kingdome rent from his poſterity for ever.</p>
+            <p>If we ſearch our Chronicles we ſhall finde that God hath croſt (if not curſt) our alliance and aſſociation with forraigne Princes, eſpe<g ref="char:EOLhyphen"/>cially with Spaine. A Prince of the greateſt performance that this Kingdome or Chriſtendome ever had was the black Prince, yet go<g ref="char:EOLhyphen"/>ing into Spaine to ſettle <hi>Don Pedro</hi> in that Kingdome, beſides the monſtrous ingratitude and perfidiouſneſſe of the Spaniard, who fai<g ref="char:EOLhyphen"/>led
+<pb n="7" facs="tcp:156017:4"/> of the performance of thoſe conditions hee had promiſed, which cauſed the unſeperable Revolt in France to the loſſe of our inheri<g ref="char:EOLhyphen"/>tance, the Prince was poyſoned in that Country that hee never had his health afterwards.</p>
+            <p>But to come neerer to our preſent purpoſe and to our owne times, which are little the better for our Spaniſh friendſhip.</p>
+            <p>I beſeech your Lordſhip obſerve that all the marriages for this laſt 120. yeares (except the ſeverall ſecond marriages of <hi>Hen.</hi> 8. have bin onely and no where elſe but with Spaine, with how little good God hath bleſſed them, the ſucceſſe ſhewes.</p>
+            <p>Prince <hi>Arthur</hi> married the Spaniſh Kings daughter, wee know God tooke him away preſently by a ſudden death without any iſſue.</p>
+            <p>In a politicke reſpect wee would then make a ſecond match for Prince <hi>Henry,</hi> afterwards King, did marry the ſame daughter, but doubtleſſe God was leſſe pleaſed with that match which was leſſe lawfull, and God tooke away all the male children, and left onely a daughter, in whoſe ſhort reigne was ſhed more bloud for the true Re<g ref="char:EOLhyphen"/>ligion in ſixe yeares, than for the falſe in theſe ſucceeding ſixty yeares. We made then a third adventure and married with Spaine, Queene <hi>Mary</hi> with King <hi>Philip,</hi> which was ſo diſcontenting to the people, that it cauſed <hi>Wiats</hi> Rebellion, ſo diſcomfortable that it broke the Queenes heart being left and neglected by her husband ſo diſhonou<g ref="char:EOLhyphen"/>rable and prejudiciall to this Kingdome, that meerely for the Spani<g ref="char:EOLhyphen"/>ards ſake we having no difference with France we loſt Callis in ſixe dayes which had bin above 200. yeares in our poſſeſſion.</p>
+            <p>And though I have not ſo much judgement, nor ſo little wit to preſume where to match, yet I aſſume ſo much as to think a match at home cannot be held any waies inconvenient.</p>
+            <p>Wee find that the firſt and the laſt of our Kings that ever matcht with their ſubjects were <hi>William</hi> the Conquerer, <hi>Edward</hi> the fourth, and <hi>Henry</hi> the eighth, to which three matches God as it were to ſhew the leſſe we relye upon others abroad, the more hee will bleſſe us himſelfe at home; for by the two latter marriages God gave two daughters, two <hi>Elizabeths,</hi> two ſuch Queenes, than which there were never two ſuch bleſſed inſtruments of Gods glory, and this Kingdomes good, by eſtabliſhing peace in the Land, and Religion in the Church, untill his Majeſties moſt happy comming who brought both with him.</p>
+            <pb n="8" facs="tcp:156017:5"/>
+            <p>Thus my Lord have I made bold to lay my poore ſingle <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at your feete the many Talents you have cannot be better imployed than this, to make you here and everlaſtingly a good and fait<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>full Servant to both your Maſters; if you would lye in waite for an op<g ref="char:EOLhyphen"/>portunity which is happily preſently offered, and your honour can<g ref="char:EOLhyphen"/>not invent any occaſion more pleaſing to God, and more laudable to the beſt men, then by perſwading ſecretly by humble intreaties, and oppoſing publickly by your ſolid reaſons this. Spaniſh match, ſince whatſoever the occaſions or neceſſities of the Crowne be, it will find more ſupport by caſting it ſelfe into the Armes of the Subjects which are the two Houſes of Parliament, then by ſeeking to any for<g ref="char:EOLhyphen"/>raigne fawning foe, or envious enemy, whereunto whenſoever wee leave and truſt we ſhall finde the Aegyptians Reedes, and their in<g ref="char:EOLhyphen"/>tentions rather to ſupplant than to ſupport us.</p>
+            <closer>
+               <signed>
+                  <hi>By him that is not ambitions (becauſe not worthy) nor yet afraid (becauſe not aſhamed) to be known to your Lordſhip in this buſineſſe.</hi> Thomas Alured.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
